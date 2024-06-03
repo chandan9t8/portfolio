@@ -31,9 +31,6 @@
 - Thoroughly tested the application, documenting over 1000 test cases in Excel for tracking and comprehensive coverage.
 - Managed real-time alerts and system reliability with Grafana, maintained code quality through SonarQube, employed Bitbucket for version control, and Confluence for technical documentation
 
-**Deep Learning Intern @ Bennett University** (_May 2019 - July 2019_)
-
-
 ## Projects
 ### Graph Alignment using GNN
 - Developed a sophisticated Graph Alignment model utilising **Graph Neural Networks (GNNs)** to accurately align nodes across disparate
@@ -43,16 +40,22 @@ relationships and similarities between nodes.
 - Designed and implemented a Siamese Network architecture within the GNN framework to optimise the comparison of node embeddings,
 significantly improving the model's accuracy in mapping node similarities.
 
+![Graph](/assets/img/Graph.jpeg)
+
 ### Estore
 - Developed a fully functional online store using **Java RMI**, to create a distributed application framework.
 - Applied multiple design patterns(MVC, Front Controller, Factory/Abstract Factory pattern) to enhance modularity and maintainability
 - Implemented features such as login, registration for user and admin, browsing, adding, updating, removing, and purchasing items.
 - Integrated a comprehensive login and authorization process to distinguish roles between customers and administrators, ensuring secure access to system functionalities.
 
+![OnlineStore](/assets/img/store.jpeg)
+
 ### Anime Recommendation System
 - Conducted preliminary data exploration and performed essential data cleaning tasks to ensure data quality and prepare it for analysis.
 - Utilised kernel K-means clustering to categorize anime into 500 groups based on their average rating and genre.
 - Implemented Singular Value Decomposition to suggest the top 5 anime tailored to each user.
+
+![Anime](/assets/img/Anime.jpeg)
 
 ### Mini Projects in Data Mining
 - Implemented the EM clustering algorithm on the Iris dataset, achieving optimal purity score of 90.6%.
