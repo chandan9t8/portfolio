@@ -46,8 +46,3 @@ A fully functional online store was developed using Java RMI to create a distrib
 Preliminary data exploration and essential data cleaning tasks were conducted to ensure data quality and prepare it for analysis. Kernel K-means clustering was utilized to categorize anime into 500 groups based on their average rating and genre. Singular Value Decomposition was implemented to suggest the top 5 anime tailored to each user.
 
 ![Anime](/assets/img/Anime.jpeg)
-
-### Mini Projects in Data Mining
-- Implemented the EM clustering algorithm on the Iris dataset, achieving optimal purity score of 90.6%.
-- Implemented PCA on a toy dataset, reducing dimensionality and capturing the most significant features while retaining 95% of the variance.
-- Implemented two variants of Matrix Factorization (MF) : gradient descent based approach and Alternating Least Squares (ALS) for latent representation of users and items in dyadic data.
