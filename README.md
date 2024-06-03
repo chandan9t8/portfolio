@@ -6,14 +6,14 @@
 *ML tools* : PyTorch, Tensorflow, Pandas, NumPy, Matplotlib
 
 ## Education
-**M.S., Computer Science	@ Purdue University, Indianapolis** (_January 2023 - Present_)         (3.6 / 4)
+**M.S., Computer Science	@ Purdue University, Indianapolis** (_January 2023 - Present_)
   *Relevant Coursework* : Algorithms, NLP , Image Processing/Computer Vision, Statistical Machine Learning,Data Mining, Database Security, Deep Learning, OOPs, independent Study(LLM's)
 
 **Micromasters, Data Science @ University of California, San Diego** (_April 2021 - November 2022_)
   *Relevant Coursework* : Python for Data Science, Probability and Statistics using python, machine learning Fundamentals, Big Data Analytics using Spark
 
 **B.Tech, Electronics and Communication Engineering @ Andhra University** (_August 2016 - October 2020_)
-  *Relevant Coursework* : 
+  *Relevant Coursework* : Linear Algebra, Calculus, Computer Programming using C, Data Structures, Computer Architecture and Organisation, Digital Image Processing, Computer Networks, Internet of Things(IOT)
 
 ## Work Experience
 
