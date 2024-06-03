@@ -1,7 +1,13 @@
 ## Education
-** M.S., Computer Science	@ Purdue University, Indianapolis (_January 2023 - Present_)
-- Micromasters, Data Science @ University of California, San Diego (_April 2021 - November 2022_) 			        		
-- B.Tech, Electronics and Communication Engineering @ Andhra University (_August 2016 - October 2020_)
+**M.S., Computer Science	@ Purdue University, Indianapolis** (_January 2023 - Present_)
+  - GPA : 3.6 / 4
+  - **Relevant Coursework** : Algorithms, NLP , Image Processing/Computer Vision, Statistical Machine Learning,Data Mining, Database Security, Deep Learning, OOPs, independent Study(LLM's)
+
+**Micromasters, Data Science @ University of California, San Diego** (_April 2021 - November 2022_)
+  - **Relevant Coursework** : Python for Data Science, Probability and Statistics using python, machine learning Fundamentals, Big Data Analytics using Spark
+
+**B.Tech, Electronics and Communication Engineering @ Andhra University** (_August 2016 - October 2020_)
+  - Relevant Coursework : 
 
 ## Work Experience
 
@@ -19,7 +25,7 @@
 - Thoroughly tested the application, documenting over 1000 test cases in Excel for tracking and comprehensive coverage.
 - Managed real-time alerts and system reliability with Grafana, maintained code quality through SonarQube, employed Bitbucket for version control, and Confluence for technical documentation
 
-**Deep Learning Intern @ Bennett University (_May 2019 - July 2019_)**
+**Deep Learning Intern @ Bennett University** (_May 2019 - July 2019_)
 
 
 ## Projects
