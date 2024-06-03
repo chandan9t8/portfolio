@@ -23,3 +23,26 @@
 
 
 ## Projects
+### Graph Alignment using GNN
+- Developed a sophisticated Graph Alignment model utilising **Graph Neural Networks (GNNs)** to accurately align nodes across disparate
+graph-based datasets.
+- Employed node2vec for robust feature extraction, generating high-dimensional embeddings(64 dimensions) that capture the complex
+relationships and similarities between nodes.
+- Designed and implemented a Siamese Network architecture within the GNN framework to optimise the comparison of node embeddings,
+significantly improving the model's accuracy in mapping node similarities.
+
+### Estore
+- Developed a fully functional online store using **Java RMI**, to create a distributed application framework.
+- Applied multiple design patterns(MVC, Front Controller, Factory/Abstract Factory pattern) to enhance modularity and maintainability
+- Implemented features such as login, registration for user and admin, browsing, adding, updating, removing, and purchasing items.
+- Integrated a comprehensive login and authorization process to distinguish roles between customers and administrators, ensuring secure access to system functionalities.
+
+### Anime Recommendation System
+- Conducted preliminary data exploration and performed essential data cleaning tasks to ensure data quality and prepare it for analysis.
+- Utilised kernel K-means clustering to categorize anime into 500 groups based on their average rating and genre.
+- Implemented Singular Value Decomposition to suggest the top 5 anime tailored to each user.
+
+### Mini Projects in Data Mining
+- Implemented the EM clustering algorithm on the Iris dataset, achieving optimal purity score of 90.6%.
+- Implemented PCA on a toy dataset, reducing dimensionality and capturing the most significant features while retaining 95% of the variance.
+- Implemented two variants of Matrix Factorization (MF) : gradient descent based approach and Alternating Least Squares (ALS) for latent representation of users and items in dyadic data.
