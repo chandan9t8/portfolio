@@ -35,7 +35,7 @@
 ### Graph Alignment using GNN
 Developed a sophisticated Graph Alignment model using **Graph Neural Networks (GNNs)** to accurately align nodes across different graph-based datasets. Node2vec was employed for robust feature extraction, generating high-dimensional embeddings (64 dimensions) that effectively capture the complex relationships and similarities between nodes. Additionally, a Siamese Network architecture was designed and implemented within the GNN framework to optimize the comparison of node embeddings, significantly improving the accuracy of mapping node similarities.
 
-![Graph](/assets/img/Graph.jpeg|500)
+![Graph](/assets/img/Graph.jpeg)
 
 ### Estore
 A fully functional online store was developed using Java RMI to create a distributed application framework. Multiple design patterns (MVC, Front Controller, Factory/Abstract Factory pattern) were applied to enhance modularity and maintainability. Features such as login and registration for users and admins, browsing, adding, updating, removing, and purchasing items were implemented. Additionally, a comprehensive login and authorization process was integrated to distinguish roles between customers and administrators, ensuring secure access to system functionalities.
