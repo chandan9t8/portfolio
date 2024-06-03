@@ -1,13 +1,17 @@
+#### Technical Skills
+Programming languages : Python, Java, Go, C, C++, HTML, CSS, Javascript, R, Matlab
+Databases : SQL, MongoDB
+ML tools : PyTorch, Tensorflow, Pandas, NumPy, Matplotlib
+
 ## Education
-**M.S., Computer Science	@ Purdue University, Indianapolis** (_January 2023 - Present_)
-  - GPA : 3.6 / 4
-  - **Relevant Coursework** : Algorithms, NLP , Image Processing/Computer Vision, Statistical Machine Learning,Data Mining, Database Security, Deep Learning, OOPs, independent Study(LLM's)
+**M.S., Computer Science	@ Purdue University, Indianapolis** (_January 2023 - Present_)         (3.6 / 4)
+  **Relevant Coursework** : Algorithms, NLP , Image Processing/Computer Vision, Statistical Machine Learning,Data Mining, Database Security, Deep Learning, OOPs, independent Study(LLM's)
 
 **Micromasters, Data Science @ University of California, San Diego** (_April 2021 - November 2022_)
-  - **Relevant Coursework** : Python for Data Science, Probability and Statistics using python, machine learning Fundamentals, Big Data Analytics using Spark
+  **Relevant Coursework** : Python for Data Science, Probability and Statistics using python, machine learning Fundamentals, Big Data Analytics using Spark
 
 **B.Tech, Electronics and Communication Engineering @ Andhra University** (_August 2016 - October 2020_)
-  - Relevant Coursework : 
+  **Relevant Coursework** : 
 
 ## Work Experience
 
