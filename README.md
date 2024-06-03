@@ -1,5 +1,3 @@
-# My Profile
-
 ## Education
 ** M.S., Computer Science	@ Purdue University, Indianapolis (_January 2023 - Present_)
 - Micromasters, Data Science @ University of California, San Diego (_April 2021 - November 2022_) 			        		
