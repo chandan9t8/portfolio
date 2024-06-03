@@ -33,27 +33,17 @@
 
 ## Projects
 ### Graph Alignment using GNN
-- Developed a sophisticated Graph Alignment model utilising **Graph Neural Networks (GNNs)** to accurately align nodes across disparate
-graph-based datasets.
-- Employed node2vec for robust feature extraction, generating high-dimensional embeddings(64 dimensions) that capture the complex
-relationships and similarities between nodes.
-- Designed and implemented a Siamese Network architecture within the GNN framework to optimise the comparison of node embeddings,
-significantly improving the model's accuracy in mapping node similarities.
+Developed a sophisticated Graph Alignment model using **Graph Neural Networks (GNNs)** to accurately align nodes across different graph-based datasets. Node2vec was employed for robust feature extraction, generating high-dimensional embeddings (64 dimensions) that effectively capture the complex relationships and similarities between nodes. Additionally, a Siamese Network architecture was designed and implemented within the GNN framework to optimize the comparison of node embeddings, significantly improving the accuracy of mapping node similarities.
 
 ![Graph](/assets/img/Graph.jpeg)
 
 ### Estore
-- Developed a fully functional online store using **Java RMI**, to create a distributed application framework.
-- Applied multiple design patterns(MVC, Front Controller, Factory/Abstract Factory pattern) to enhance modularity and maintainability
-- Implemented features such as login, registration for user and admin, browsing, adding, updating, removing, and purchasing items.
-- Integrated a comprehensive login and authorization process to distinguish roles between customers and administrators, ensuring secure access to system functionalities.
+A fully functional online store was developed using Java RMI to create a distributed application framework. Multiple design patterns (MVC, Front Controller, Factory/Abstract Factory pattern) were applied to enhance modularity and maintainability. Features such as login and registration for users and admins, browsing, adding, updating, removing, and purchasing items were implemented. Additionally, a comprehensive login and authorization process was integrated to distinguish roles between customers and administrators, ensuring secure access to system functionalities.
 
 ![OnlineStore](/assets/img/store.jpeg)
 
 ### Anime Recommendation System
-- Conducted preliminary data exploration and performed essential data cleaning tasks to ensure data quality and prepare it for analysis.
-- Utilised kernel K-means clustering to categorize anime into 500 groups based on their average rating and genre.
-- Implemented Singular Value Decomposition to suggest the top 5 anime tailored to each user.
+Preliminary data exploration and essential data cleaning tasks were conducted to ensure data quality and prepare it for analysis. Kernel K-means clustering was utilized to categorize anime into 500 groups based on their average rating and genre. Singular Value Decomposition was implemented to suggest the top 5 anime tailored to each user.
 
 ![Anime](/assets/img/Anime.jpeg)
 
