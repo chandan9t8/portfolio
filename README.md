@@ -7,12 +7,15 @@
 
 ## Education
 **M.S., Computer Science	@ Purdue University, Indianapolis** (_January 2023 - Present_)
+
   *Relevant Coursework* : Algorithms, NLP , Image Processing/Computer Vision, Statistical Machine Learning,Data Mining, Database Security, Deep Learning, OOPs, independent Study(LLM's)
 
 **Micromasters, Data Science @ University of California, San Diego** (_April 2021 - November 2022_)
+
   *Relevant Coursework* : Python for Data Science, Probability and Statistics using python, machine learning Fundamentals, Big Data Analytics using Spark
 
 **B.Tech, Electronics and Communication Engineering @ Andhra University** (_August 2016 - October 2020_)
+
   *Relevant Coursework* : Linear Algebra, Calculus, Computer Programming using C, Data Structures, Computer Architecture and Organisation, Digital Image Processing, Computer Networks, Internet of Things(IOT)
 
 ## Work Experience
@@ -38,11 +41,11 @@ Developed a sophisticated Graph Alignment model using **Graph Neural Networks (G
 ![Graph](/assets/img/Graph.jpeg)
 
 ### Estore
-A fully functional online store was developed using Java RMI to create a distributed application framework. Multiple design patterns (MVC, Front Controller, Factory/Abstract Factory pattern) were applied to enhance modularity and maintainability. Features such as login and registration for users and admins, browsing, adding, updating, removing, and purchasing items were implemented. Additionally, a comprehensive login and authorization process was integrated to distinguish roles between customers and administrators, ensuring secure access to system functionalities.
+Developed fully functional online store using Java RMI to create a distributed application framework. Multiple design patterns (MVC, Front Controller, Factory/Abstract Factory pattern) were applied to enhance modularity and maintainability. Features such as login and registration for users and admins, browsing, adding, updating, removing, and purchasing items were implemented. Additionally, a comprehensive login and authorization process was integrated to distinguish roles between customers and administrators, ensuring secure access to system functionalities.
 
 ![OnlineStore](/assets/img/store.jpeg)
 
 ### Anime Recommendation System
-Preliminary data exploration and essential data cleaning tasks were conducted to ensure data quality and prepare it for analysis. Kernel K-means clustering was utilized to categorize anime into 500 groups based on their average rating and genre. Singular Value Decomposition was implemented to suggest the top 5 anime tailored to each user.
+Developed a Anime Recoemmendation System that suggests anime to the user based on their past preferences and ratings. Preliminary data exploration and essential data cleaning tasks were conducted to ensure data quality and prepare it for analysis. Kernel K-means clustering was utilized to categorize anime into 500 groups based on their average rating and genre. Singular Value Decomposition was implemented to suggest the top 5 anime tailored to each user.
 
 ![Anime](/assets/img/Anime.jpeg)
