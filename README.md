@@ -1,4 +1,4 @@
-# My Profile
+# Data Scientist
 
 ## Education
 ** M.S., Computer Science	@ Purdue University, Indianapolis (_January 2023 - Present_)
